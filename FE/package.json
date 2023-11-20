@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.2",
+    "axios": "^1.6.1",
+    "react-hook-form": "^7.48.2",
+    "resolvers": "^1.0.0",
+    "sweetalert2": "^11.9.0",
+    "yup": "^1.3.2"
+  }
+}
